@@ -1,1 +1,1 @@
-# Real-lifeComic
+# Real-life Comic Image Editing
