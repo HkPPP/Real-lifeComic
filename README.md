@@ -9,7 +9,7 @@ Real-life comic seeks to transform photos to hand-drawn pictures using different
 
 
 # Demo
-https://discord.com/channels/@me/755886386195988523/790266494125998120
+https://drive.google.com/file/d/1yDNuqVJm9zMROPj4uOcqz1mm0Nkok6qV/view?usp=sharing
 
 
 
