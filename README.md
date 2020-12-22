@@ -1,5 +1,5 @@
 # Real-life Comic Image Editing
-Real-life comic seeks to transform photos to hand-drawn pictures using different image processing techniques. To obtain the ideal result, the photo is processed in a step-by-step method following: histogram stretching, noise reduction, edge detection, edge boldening, quantization, and image combination.
+Real-life comic seeks to transform photos to hand-drawn pictures using different filters and image processing techniques. To obtain the ideal result, the photo is processed in a step-by-step method following by: histogram stretching, noise reduction, edge detection, edge boldening, quantization, and image combination.
 
 
 ![alt text](https://github.com/HkPPP/Real-lifeComic/blob/main/Real-life%20Comic/Images/johnny.jpg?raw=true)
